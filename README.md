@@ -1,2 +1,3 @@
 # NYC-Housing-
-Exploratory analysis and visualization of New York housing data. 
+Exploratory analysis and minimalist theme visualization of New York housing data. 
+
