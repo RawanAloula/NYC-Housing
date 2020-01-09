@@ -1,4 +1,4 @@
-# NYC-Housing-
+# NYC-Housing
 Exploratory analysis with minimalist theme visualization of New York housing data. 
 
 
